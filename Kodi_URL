@@ -5,3 +5,4 @@
 
 cd /D %kpp%
 
+explorer %kpp%
