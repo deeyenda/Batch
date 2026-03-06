@@ -1,0 +1,7 @@
+# Batch
+
+
+ set kpp="C:\Programs\Kodi-Plex"
+
+cd /D %kpp%
+
